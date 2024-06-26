@@ -1,2 +1,6 @@
 Data/*
+AutogluonModels/
+Code/.ipynb_checkpoints/
+Results/*.joblib
+Results/*
 
