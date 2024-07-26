@@ -4,4 +4,5 @@ Code/.ipynb_checkpoints/
 Results/*.joblib
 Results/*
 Models/*
+catboost_info/*
 
